@@ -1,8 +1,7 @@
 		<?php 
 		include 'data/dataBase.php';
 		include 'classes/cpaciente.php';
-		include 'classes/cUsuario.php';
-		
+		include 'classes/cUsuario.php';	
 		$oUser 	= new Usuario();
 			
 		if ( !$oUser->verSession() ) {
