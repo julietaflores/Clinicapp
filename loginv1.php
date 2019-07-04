@@ -72,8 +72,6 @@
               <a class="container-login100-form-btn" href="#">Olvido su clave?</a>
             </div>
 
-				
-
 					<div class="text-center ">
 						<span class="txt1">
                           No tiene una cuenta?
